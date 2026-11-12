@@ -1,6 +1,6 @@
 ### Hi, I'm Alyssom Fernandes 👋
 
-**Developer · Data & BI.** I spent 5 years inside payroll, tax and controllership spreadsheets. Now I build the systems that replace them.
+**Developer · Data & Automation.** I spent 5 years inside payroll, accounting and controllership spreadsheets. Now I build the systems that replace them.
 
 [Portfolio](https://alyssom-fernandes.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/alyssom-fernandes) · [CV (PDF)](https://alyssom-fernandes.github.io/portfolio/cv/Alyssom-Fernandes-CV-EN.pdf) · Open to remote roles or relocation in Europe and the Americas
 
@@ -9,7 +9,7 @@
 | Project | What it solves | Stack | Links |
 |---|---|---|---|
 | **FlowTrack** | Personal finance: imports bank statements (PDF, OFX, CSV), categorizes expenses with AI and turns the month into budgets, goals and reports | React · TypeScript · FastAPI · Supabase | [Demo](https://flowtrack-afn.vercel.app) · [Code](https://github.com/alyssom-fernandes/FlowTrack) |
-| **Fuel-Mind** | Fuel purchase and freight control for a group of companies: NF-e XML import, freight by plate and driver, month closing, PDF and Excel reports. In real use by the author | Vanilla JS · Firebase | [Demo](https://controle-entradas-posto.web.app) · [Code](https://github.com/alyssom-fernandes/Fuel-Mind) |
+| **Fuel-Mind** | Fuel purchase and freight control for a group of companies: NF-e XML import, freight by plate and driver, month closing, PDF and Excel reports | Vanilla JS · Firebase | [Demo](https://controle-entradas-posto.web.app) · [Code](https://github.com/alyssom-fernandes/Fuel-Mind) |
 | **Praxis** | Procurement from request to payment, with quotes, approvals and full traceability | Vanilla JS · Firebase (security rules tested in the emulator) | [Demo](https://praxis-af618.web.app) · [Code](https://github.com/alyssom-fernandes/Praxis) |
 | **AudiStock** | Stock audit from a phone, closed against the ERP balance, with shortage and overage reports | Vanilla JS · Supabase (Postgres, RLS) · IndexedDB | [Demo](https://alyssom-fernandes.github.io/AudiStock/app.html?demo=1) · [Code](https://github.com/alyssom-fernandes/AudiStock) |
 | **Docke** | Multi-company document management: OCR search, tax deadlines, legal retention and a hash-chained audit trail | React · TypeScript · FastAPI · PostgreSQL | [Demo](https://docke-two.vercel.app) · [Code](https://github.com/alyssom-fernandes/Docke) |
